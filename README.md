@@ -19,7 +19,7 @@ I am a fullstack software engineer with extensive development experience in java
 - https://github.com/Smakar20/JavaScripts
 - https://coderbyte.com/profile/Sohini
 
-##Education:
-Visvesvaraya Technological University, Karnataka, India
-Bachelor in Engineering, 2009
-Electronics and Communications Engineering
+## Education:
+- Visvesvaraya Technological University, Karnataka, India
+- Bachelor in Engineering, 2009
+- Electronics and Communications Engineering

@@ -1,4 +1,4 @@
-## Sohini Makar San Francisco Bay Area, CA • sohini.makar@gmail.com • (650) 892-8282
+## Sohini Makar • San Francisco Bay Area, CA • sohini.makar@gmail.com • (650) 892-8282
 I am a fullstack software engineer with extensive development experience in javascript technologies, worked at companies like Diamond Resorts Intl, Fidelity Investments and Oracle Inc. I am currently working for Kenandy on their ERP platform for accounting, handling millions of salesforce events using AWS for clients like Fluidic and Kiva. I specialize in creating accessible, fast and effective web applications. I am an individual with strong analytical and problem solving skills and capable of achieving results under pressure, independently and in team.
 
 ## Technical Skills:

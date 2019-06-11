@@ -1,5 +1,5 @@
 ## Sohini Makar • San Francisco Bay Area, CA • (650) 892-8282 • sohini.makar@gmail.com
-I am a fullstack software engineer with extensive development experience in javascript technologies, worked at companies like Oracle, Fidelity Investments, Diamond Resorts Intl, Kenandy Inc. I am currently working for Tesla as Sr. Software Engineer. I specialize in creating accessible, fast and effective web applications. I am an individual with strong analytical and problem solving skills and capable of achieving results under pressure, independently and in team.
+I am a fullstack software engineer with extensive development experience in javascript technologies, worked at companies like Tesla, Oracle, Fidelity Investments, Diamond Resorts Intl, Kenandy Inc. I am currently working for Rally Health as a Software Engineer. I specialize in creating accessible, fast and effective web applications. I am an individual with strong analytical and problem solving skills and capable of achieving results under pressure, independently and in team.
 
 ## Technical Skills:
 - **Programming Languages:** JavaScript, CSS, HTML, AJAX, MySQL, JSON, XML, C#, TypeScript.

@@ -5,7 +5,7 @@ I am a frontend software engineer with over 8 years of extensive development exp
 - **Programming Languages:** JavaScript, TypeScript, CSS3, HTML5, AJAX, MySQL, JSON, XML, C#.
 - **Frameworks/Libraries:** Angular, Jest, NgRx, RxJS, jQuery, Node.js.
 - **AWS Skills:** S3, Lambda, API Gateway, Step Function.
-- **Debugging Tools:** FireBug, Fiddler, IntelliJ IDEA Debugger, Crome DevTools Debugger.
+- **Debugging Tools:** Chrome DevTools Debugger, FireBug, Fiddler, IntelliJ IDEA Debugger.
 - **Source Control:** Git, Clear Case, SVN.
 - **Databases:** Oracle 9i-12c.
 - **Database Languages:** SQL, PLSQL.

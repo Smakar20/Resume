@@ -28,7 +28,7 @@ I am part of Rally's coaching team. Coaching provides a platform for various beh
 8. Participate in code review.
 9. Participating in the recruitment drive by interviewing the technical skills of candidates.
 
-**Technologies:** Angular 10, Jest, NgRx, RxJS, TypeScript, Angular Material.
+**Technologies:** Angular 10, Jest, NgRx, RxJS, TypeScript, Angular Material.<br />
 **Tools:** Visual Studio Code, WebdriverIO, Storybook, Contentful, Git, Github, JIRA, Jenkins.
 
 
@@ -42,7 +42,7 @@ I was responsible for the design/development of Tesla’s Service Bill of Materi
 4. Developed Reactive custom-form using Angular and used Angular services to make HTTP calls asynchronously.
 5. Worked with Material design components such as mat-input, mat-dialog, mat-snackbar, mat-tooltip, etc.
 
-**Technologies:** Angular 4, C#. NET CORE, TypeScript, Material design components.
+**Technologies:** Angular 4, C#. NET CORE, TypeScript, Material design components.<br />
 **Tools:** Visual Studio 2017, Visual Studio Code, MySQL, SQL Server 2014, IIS, GIT, JIRA, Confluence.
 
 
@@ -54,7 +54,7 @@ I worked on building a new accounting engine for Kenandy's Finance Cloud SAAS ER
 2. Wrote Lambda functions using Node.js that validate user information in MongoDB, connect to Salesforce for querying/pushing data and generate accounting. Stored and retrieved a large volume of data to and from S3.
 3. Used Jsforce library functions to connect to salesforce org and performing bulk data manipulation.
 
-**Technologies:** JavaScript, NodeJS, JSForce, JSON, APEX, UNIX Shell Scripting.
+**Technologies:** JavaScript, NodeJS, JSForce, JSON, APEX, UNIX Shell Scripting.<br />
 **Tools:** IntelliJ IDEA, AWS Console, Eclipse, Git, SourceTree.
 
 
@@ -66,7 +66,7 @@ I worked on building a new accounting engine for Kenandy's Finance Cloud SAAS ER
 2. Developed Single Page Application using jQuery, Ajax and used media queries to build responsive web apps.
 4. Delivered the unit-tested modules to QA's along with Design and Unit Test Plan, Acceptance Criteria documents 
 
-**Technologies:** HTML5, CSS3, JQuery, AngularJS, AJAX, JSON, SQL/PLSQL, UNIX Shell Scripting.
+**Technologies:** HTML5, CSS3, JQuery, AngularJS, AJAX, JSON, SQL/PLSQL, UNIX Shell Scripting.<br />
 **Tools:** Aptana, Eclipse, Firebug, Fiddler, SQL*Plus, Toad, Putty, SVN.
 
 
@@ -79,7 +79,7 @@ Served as a key contributor in developing and enhancing wealth management, guida
 3. wrote UTP documents.
 4. supported SIT, UAT, and Production.
 
-**Technologies:** HTML, CSS, JavaScript, XML, SQL/PLSQL, UNIX Shell Scripting.
+**Technologies:** HTML, CSS, JavaScript, XML, SQL/PLSQL, UNIX Shell Scripting.<br />
 **Tools:** SQL*Plus, Toad, Putty, SVN, GIT, ACTIMIZE.
 
 
@@ -93,7 +93,7 @@ Served as a Software developer and Flexcube consultant for core banking faciliti
 4. Onsite implementation at NAB, Hong Kong, and VCB, Ho Chi Minh City.
 
 
-**Technologies:** JavaScript, SQL/PLSQL, XML, UNIX Shell Scripting.
+**Technologies:** JavaScript, SQL/PLSQL, XML, UNIX Shell Scripting.<br />
 **Tools:** PLSQL Developer, SQL*Plus, RAD, Putty, ClearCase, SVN.
 
 

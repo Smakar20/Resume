@@ -1,4 +1,4 @@
-## Sohini Makar • San Francisco Bay Area, CA • (650) 892-8282 • sohini.makar@gmail.com
+## Sohini Makar • San Francisco Bay Area, CA • sohini.makar@gmail.com
 I am a frontend software engineer with over 8 years of extensive development experience in javascript technologies, worked at companies like Tesla, Oracle, Fidelity Investments, Diamond Resorts Intl, Kenandy Inc. I am currently working at Rally Health. I specialize in creating Accessible Rich, fast, and responsive web applications. I am an individual with strong analytical and problem-solving skills, capable of achieving results under pressure.
 
 ## Technical Skills:

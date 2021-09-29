@@ -98,7 +98,6 @@ Served as a Software developer and Flexcube consultant for core banking faciliti
 
 
 ## Other Links:
-- https://smakar20.github.io/
 - https://github.com/Smakar20/JavaScripts
 - https://coderbyte.com/profile/Sohini
 - https://www.hackerrank.com/submissions/all

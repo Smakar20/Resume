@@ -14,9 +14,7 @@ I am a frontend software engineer with over 8 years of extensive development exp
 - **Software Development Methodologies:** Agile, SDLC, Waterfall.
 
 ## Professional Experiences:
-### Rally Health Inc., San Francisco, CA
-### Software Engineer(May'19 - Current)
-
+#### Rally Health Inc., San Francisco, CA                                                                                     Software Engineer(May'19 - Current)
 I am part of Rally's coaching team. Coaching provides a platform for various behavioral and literacy programs, offered to Rally users. I have been contributing to coaching by working on different areas, mainly program gallery, program details, dashboard, FTUE (First Time User Experience), success-kit, rewards-tracker, survey, user's profile, and settings.
 
 **Responsibilities:**

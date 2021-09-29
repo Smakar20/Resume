@@ -83,7 +83,7 @@ Served as a key contributor in developing and enhancing wealth management, guida
 **Tools:** SQL*Plus, Toad, Putty, SVN, GIT, ACTIMIZE.
 
 
-#### SOFTWARE ENGINEER (Aug’13 - Apr’14) • Oracle Financial Services Software Ltd., Bangalore, INDIA
+#### STAFF CONSULTANT (Apr’10 - Aug‘13) • Oracle Financial Services Software Ltd., Bangalore, INDIA
 Served as a Software developer and Flexcube consultant for core banking facilities for the bank’s corporate clients (CITI Bank, National Australia Bank, China Trust Commercial Bank, Viet Capital Bank, Bank Of Montreal).
 
 **Responsibilities:**

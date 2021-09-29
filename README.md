@@ -9,10 +9,9 @@ I am a frontend software engineer with over 8 years of extensive development exp
 - **Source Control:** Git, Clear Case, SVN.
 - **Databases:** Oracle 9i-12c.
 - **Database Languages:** SQL, PLSQL.
-- **Tools:** Contentful, Jenkins, Storybook, WebdriverIO, IntelliJ IDEA, WebStorm, Terminal, TOAD, SQL Developer, PLSQL Developer, SQL*Loader, Visual Studio Code, Github.
+- **Tools:** Contentful, Jenkins, Storybook, WebdriverIO, Jira, IntelliJ IDEA, WebStorm, Terminal, TOAD, SQL Developer, PLSQL Developer, SQL*Loader, Visual Studio Code, Github.
 - **Shell Scripting:** UNIX.
 - **Software Development Methodologies:** Agile, SDLC, Waterfall.
-- **Others:** Jira, Confluence, SalesForce.
 
 ## Other Links:
 - https://smakar20.github.io/
